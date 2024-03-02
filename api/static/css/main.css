@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+body {
+    background-color: rgb(1, 1, 30);
+    color: white;
+
+    font-family: 'Poppins', monospace;
+}
+.btn{
+    border-radius: 3px;
+    background-color: #04aa6d;
+    padding: 0.4rem;
+    margin: 0.7vw;
+    font-size: 1rem;
+    border: 2px solid white;
+    transition-duration: 0.2s;
+}
+.btn:hover {
+    background-color: blue;
+}
