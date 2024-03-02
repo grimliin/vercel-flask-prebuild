@@ -2,7 +2,6 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.edge.options import Options
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.edge.service import Service
 import time
 def main(stock):
   def expand_shadow_element(element):
